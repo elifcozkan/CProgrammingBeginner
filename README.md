@@ -41,3 +41,7 @@ Project3
 2.	Write a code that calculates the length of input string.
 3.	Write a code that add exclamation at the end of the string and writes it to standard input.
 4.	Write a code that counts the specific character.
+5.	Write a code that compares two given strings like strcmp.
+6.	Write a code that takes string from user and deletes specified character from that string.
+7.	Write a code that reverses the taken string.
+8.	Write a code that gives the number of words given.
